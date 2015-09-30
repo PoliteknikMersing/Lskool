@@ -1,4 +1,4 @@
-# lSkool project
+# Lskool project
 
 This project happens when four of us join the Hackathon Data Sektor Awam organised by MAMPU.
 
@@ -6,7 +6,7 @@ Please feel free to have a look at [our web] for the full story how this happen 
 
 ----
 
-**2015 Politeknik Mersinng 1 / lSkool.com**
+**2015 Politeknik Mersinng 1 / Lskool.com**
 
    [my blog]:http://cSkool.mol.es/
    [ionic]:http://ionicframework.com/
