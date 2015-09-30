@@ -1,13 +1,13 @@
-# hasCode.com Tag Search Wizard
+# lSkool project
 
-Allows you to search blog articles of mine by a given tag using a hybrid mobile application.
+This project happens when four of us join the Hackathon Data Sektor Awam organised by MAMPU.
 
-Please feel free to have a look at [my blog] for the full tutorial how to create the application using [ionic] and [angularjs].
+Please feel free to have a look at [our web] for the full story how this happen [ionic] and [angularjs].
 
 ----
 
-**2015 Micha Kops / hasCode.com**
+**2015 Politeknik Mersinng 1 / lSkool.com**
 
-   [my blog]:http://www.hascode.com/
+   [my blog]:http://cSkool.mol.es/
    [ionic]:http://ionicframework.com/
    [angularjs]:https://angularjs.org/
