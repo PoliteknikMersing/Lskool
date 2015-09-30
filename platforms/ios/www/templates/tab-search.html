@@ -1,0 +1,17 @@
+<ion-view view-title="cSkool">
+    <ion-content class="padding">
+        <div class="list list-inset">
+            <div class="item item-divider">
+                <h2>Search School</h2>
+            </div>
+            <label class="item item-input">
+                <i class="icon ion-search placeholder-icon"></i>
+                <input type="text" placeholder="by postcode or district or city" ng-model="term" ng-keyup="$event.keyCode == 13 && searchTerm()" ng-change="resetResults()">
+            </label>
+            <h3 ng-show="showResults">{{hits.length}} Hits for &quot;{{term}}&quot;</h3>
+            <div class="list" ng-repeat="hit in hits">
+                <blogarticle data="hit"/>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

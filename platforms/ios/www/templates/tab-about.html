@@ -1,0 +1,44 @@
+<ion-view view-title="cSkool" ng-controller="AboutController as about">
+    <ion-content class="padding">
+        <div class="card">
+            <div class="item item-divider">
+                <h2>About Us</h2>
+            </div>
+            <div class="item item-text-wrap">
+                    <p>cSkoll is the #1 FREE application dedicated to ease the parents across the Malaysia in finding available schools in the region for their children who is enrolling into primary and secondary school. The app had also been developed to consider undertaking an additional search  by allowing parents to enter neighbouring suburb, locality or postcode to find any schools that may be nearby, particularly where your current residence is located on the outer margins of a suburb or locality.</p>
+                    <p>Besides, the app also comes with the list of bus operator who provide service within the region, giving the parent a hassle free solution in finding the school bus operator. It also do come with rating functionalities where app user are allow to rate the current services operator.</p>
+                  
+            </div>
+            <div class="item item-divider">
+                <h2>Contact Us</h2>
+            </div>
+            <div class="list list-inset">                    
+                    <center><div class="row">
+                      <div class="col">
+                        <a href="fb://facebook.com/cSkool"><img src="img/facebook.png"></a>
+                      </div>
+                      <div class="col">
+                        <a href="twitter://twitter.com/lalalalala"><img src="img/twitter.png"></a> 
+                      </div>
+                      <div class="col">
+                        <a href="mailto:cskool@pmj.edu.my"><img src="img/email.png"></a>
+                      </div>
+                      <div class="col">
+                       <a href="tel:+60123928492"><img src="img/call.png"></a>    
+                      </div>
+                    </div></center>
+                </div>
+        </div>
+
+
+
+<button class="button button-primary button-block " ng-click="checkForUpdates()">
+  Check for updates
+</button>
+<button class="button button-stable button-block button-pulse" ng-if="hasUpdate" ng-click="doUpdate()">
+  download update
+</button>
+
+        
+    </ion-content>
+</ion-view>

@@ -1,0 +1,12 @@
+{
+  "name": "Lskool skool directory",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-rc.3",
+    "platform.js": "platform#~1.3.0",
+    "ionic-service-core": "~0.1.10",
+    "ionic-service-deploy": "~0.1.3",
+    "ionic-service-analytics": "~0.2.5",
+    "ngCordova": "~0.1.20-alpha"
+  }
+}

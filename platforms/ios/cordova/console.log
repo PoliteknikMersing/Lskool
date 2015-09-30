@@ -1,0 +1,15 @@
+2015-09-27 15:58:06.343 cSkool Search School[3571:21499] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tajulazharmohdtajulariffin/Library/Developer/CoreSimulator/Devices/62AF465A-BD2C-4934-A92D-17BFF72846FC/data/Containers/Data/Application/A8701E7E-5365-4535-84A6-3D98DA2DFDBF/Library/Cookies/com.ionicframework.hascodetagwizard236005.binarycookies
+2015-09-27 15:58:06.602 cSkool Search School[3571:21499] Apache Cordova native platform version 3.7.0 is starting.
+2015-09-27 15:58:06.602 cSkool Search School[3571:21499] Multi-tasking -> Device: YES, App: YES
+2015-09-27 15:58:06.618 cSkool Search School[3571:21499] Unlimited access to network resources
+2015-09-27 15:58:06.934 cSkool Search School[3571:21499] VERSION LABEL: 0.0.1:1443340654:NO_DEPLOY_LABEL
+2015-09-27 15:58:06.934 cSkool Search School[3571:21499] updating version label
+2015-09-27 15:58:06.935 cSkool Search School[3571:21499] [CDVTimer][ionicdeploy] 2.336025ms
+2015-09-27 15:58:06.936 cSkool Search School[3571:21499] [CDVTimer][TotalPluginStartup] 2.888024ms
+2015-09-27 15:58:07.292 cSkool Search School[3571:21499] active
+2015-09-27 15:58:07.342 cSkool Search School[3571:21499] Resetting plugins due to page load.
+2015-09-27 15:58:07.343 cSkool Search School[3571:21499] uuid is: 
+2015-09-27 15:58:07.343 cSkool Search School[3571:21499] ignore deploy
+2015-09-27 15:58:07.343 cSkool Search School[3571:21499] ignore version: NO_DEPLOY_LABEL
+2015-09-27 15:58:07.410 cSkool Search School[3571:21577] App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
+2015-09-27 15:58:07.761 cSkool Search School[3571:21499] Finished load of: file:///Users/tajulazharmohdtajulariffin/Library/Developer/CoreSimulator/Devices/62AF465A-BD2C-4934-A92D-17BFF72846FC/data/Containers/Bundle/Application/54879B58-7136-4EFC-A954-EBB944C9B607/cSkool%20Search%20School.app/www/index.html#/tab/map
